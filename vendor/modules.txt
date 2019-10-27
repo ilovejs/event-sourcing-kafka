@@ -1,0 +1,34 @@
+# github.com/Shopify/sarama v1.11.0
+github.com/Shopify/sarama
+# github.com/davecgh/go-spew v1.1.0
+github.com/davecgh/go-spew/spew
+# github.com/eapache/go-resiliency v0.0.0-20160104191539-b86b1ec0dd42
+github.com/eapache/go-resiliency/breaker
+# github.com/eapache/go-xerial-snappy v0.0.0-20160609142408-bb955e01b934
+github.com/eapache/go-xerial-snappy
+# github.com/eapache/queue v1.1.0
+github.com/eapache/queue
+# github.com/golang/snappy v0.0.0-20170215233205-553a64147049
+github.com/golang/snappy
+# github.com/gorilla/context v1.1.1
+github.com/gorilla/context
+# github.com/gorilla/mux v1.3.0
+github.com/gorilla/mux
+# github.com/klauspost/crc32 v0.0.0-20170210140523-1bab8b35b6bb
+github.com/klauspost/crc32
+# github.com/mitchellh/mapstructure v0.0.0-20170422000251-cc8532a8e9a5
+github.com/mitchellh/mapstructure
+# github.com/pierrec/lz4 v0.0.0-20170331164928-f5b77fd73d83
+github.com/pierrec/lz4
+# github.com/pierrec/xxHash v0.0.0-20160112165351-5a004441f897
+github.com/pierrec/xxHash/xxHash32
+# github.com/rcrowley/go-metrics v0.0.0-20161128210544-1f30fe9094a5
+github.com/rcrowley/go-metrics
+# github.com/streadway/amqp v0.0.0-20170313174848-afe8eee29a74
+github.com/streadway/amqp
+# gopkg.in/mgo.v2 v2.0.0-20160818020120-3f83fa500528
+gopkg.in/mgo.v2/bson
+gopkg.in/mgo.v2
+gopkg.in/mgo.v2/internal/json
+gopkg.in/mgo.v2/internal/sasl
+gopkg.in/mgo.v2/internal/scram
